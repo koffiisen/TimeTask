@@ -1,3 +1,6 @@
+## TimeTask 
+is simply library for run multiple function in queue with timeout
+
 ## Classes
 
 <dl>
@@ -18,7 +21,6 @@
 ## TimeTask
 **Kind**: global class
 **Default**: <code>2500</code>
-SOFTWARE.  N CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THEl
 **Version**: 1.0.0
 **Author**: Joel ONIPOH <https://github.com/koffiisen>
 
